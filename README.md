@@ -66,9 +66,6 @@ Open your browser and go to: `http://localhost:3000`.
 - **Backend**: Node.js, Express.
 - **Database**: MongoDB.
 - **Development Tools**: VS Code, Git
-- **Resources**:
-  - Icons: [FontAwesome](https://fontawesome.com/)
-  - Mock API: [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 ## Repository Checklist
 - Code: All source code is included in the repository.
